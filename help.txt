@@ -1,0 +1,7 @@
+-Run following in terminal from Visual Studio
+npm init
+npm i express
+npm I mongoose
+npm install  --save mongoose
+npm i --save-dev @babel/core  @babel/cli @babel/node @babel/preset-env
+npm i nodemon 
